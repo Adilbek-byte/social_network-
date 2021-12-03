@@ -1,0 +1,10 @@
+h1 {
+	color: red;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px
+}
+
+p {
+	margin: 0;
+	font-weight: 400;
+}
